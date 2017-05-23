@@ -1,0 +1,10 @@
+Speed using MOSFET
+https://www.youtube.com/watch?v=sOz41WQF7wE
+
+
+
+Speed using H-Bridge
+
+https://www.youtube.com/watch?v=XRehsF_9YQ8
+
+http://eeenthusiast.com/arduino-dc-motor-drive-h-bridge-pwm/
