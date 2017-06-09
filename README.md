@@ -1,55 +1,29 @@
 # Engineering Projects With Arduino
 
-### Day 1:  
-* Introduction - Please - Check Their Pgm Skills  
-* Introduction to Arduino  
-* Introduction to Electronics - Breadboard, Resistor, LED  
-* Introduction to good programming practice ( const int LED=pinno) (diff #define and const ?)  
-* digitalWrite()
-	* Blink LED  
-	* LED Stoplight  
-	* Pattern using LED(array (eg.pinArray[3]={3,4,5})  
-* digitalRead()
-	* Reading a switch  
-	* Lighthing and LED using a switch  
-	* Alternate LEDs using a switch  
+### Set 1:
+#### Digital:
 
-### Day 2:  
-* Analog vs digital  
-* Why we need analog(real work all are analog but computers know only digital)  
-* Introduction to POT and dim and brighten an LED  
-* analogRead()
-	* Reading a POT  
-	* Turn on LED after some value  
-	* LDR and do the same task on switching on an LED (Automating Street Light)  
-* Introduction to Buzzer and its working  
-* tone(), map()
-	* Playing a definite note using a switch  
-	* Light Thermin using LDR  
-    
-    
-### Day 3:  
-* Introduction to Sensors and Actuators  
-* Introduction to IR Sensor  
-* Detect Proximity of hand using LDR to turn on LED  
-* Introduction to UltraSonic Sensor   
-* Distance Measurement using Ultrasonic  
-* Explain their use in Rover(To stop rover when it comes near a wall and constant distance measurement)  
+1)      Blink LED (digital output)
+2)      Switch or Button (digital input)
+3)      LED with Switch (digital input and output)  
 
-### Day 4:   
-* Introduction to PWM  
-* analogWrite() - Dimming and brightning LED  		
-* Introduction to DC motor and H-Bridge  
-* Controlling the speed and direction of the DC motor  
-* Function and Interrupts  
+### Set 2:  
+#### Analog:
+4)      Potentiometer (analog input)
+5)      Fade LED (analog output)
+6)      Potentiometer fades an LED (analog input and output)    
+    
+### Set 3:  
+#### Sensors:
+7)      LDR with buzzer 
+8)      LDR with LED
 
+### Additional Programs:  
+9)      Smoothing of Potentiometer 
+10)     Bar graph with LEDs 
+11)     Seven Segment Display
 
-### Day 5:  
-* I2C  
-* Use of it in real-world  
-
-### Project in the afternoon  
-
-
-
-		
+> * Conduct quizzes each day to test their knowledge.
+> * Conduct resistor color coding test (after teaching them how it works).
+> * Make them code and make the circuits for a code they’ve executed in the past (a simple one).
+> * Conduct error debugging test.
