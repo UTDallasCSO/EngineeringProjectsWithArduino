@@ -1,6 +1,6 @@
-![](https://github.com/UTDallasCSO/EngineeringProjectsWithArduino/blob/master/Codes/8%20Seven%20Segment/11.Seven_Segment_1.png)
+![](https://github.com/UTDallasCSO/EngineeringProjectsWithArduino/blob/master/Codes/11%20Seven%20Segment/11.Seven_Segment_1.png)
 
-![](https://github.com/UTDallasCSO/EngineeringProjectsWithArduino/blob/master/Codes/8%20Seven%20Segment/11.Seven_Segment_2.png)
+![](https://github.com/UTDallasCSO/EngineeringProjectsWithArduino/blob/master/Codes/11%20Seven%20Segment/11.Seven_Segment_2.png)
 
 ````
 int a=3, b=4, c=8, d=6, e=5, f=2, g=7;
