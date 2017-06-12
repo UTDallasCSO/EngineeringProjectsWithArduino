@@ -2,7 +2,7 @@
 
 ### Set 1:
 #### Digital:
-1. Blink LED (digital output)
+1. [Blink LED (digital output)](https://github.com/UTDallasCSO/EngineeringProjectsWithArduino/tree/master/Codes/1%20Blink_LED)
 2. Switch or Button (digital input)
 3. LED with Switch (digital input and output)  
 
