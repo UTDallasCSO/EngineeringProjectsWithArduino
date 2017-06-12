@@ -1,4 +1,4 @@
-![](https://github.com/UTDallasCSO/EngineeringProjectsWithArduino/blob/master/Codes/6%20LDR%20Buzzer/6.LDR_Buzzer.png)
+![](https://github.com/UTDallasCSO/EngineeringProjectsWithArduino/blob/master/Codes/7%20LDR%20Buzzer/7.LDR_Buzzer.png)
 
 ````
 void setup() {

@@ -1,6 +1,5 @@
 
 ````
-/* Analog Read */
 int led=13;
 void setup()  {
   Serial.begin(9600);   	// initialize console output at 9600 bits per second

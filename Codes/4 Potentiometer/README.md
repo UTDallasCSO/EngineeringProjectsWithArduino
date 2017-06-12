@@ -1,4 +1,4 @@
-![](https://github.com/UTDallasCSO/EngineeringProjectsWithArduino/blob/master/Codes/3%20Potentiometer/3.Potentiometer.jpg)
+![](https://github.com/UTDallasCSO/EngineeringProjectsWithArduino/blob/master/Codes/4%20Potentiometer/4.Potentiometer.jpg)
 
 ````
 /* Analog Read */
