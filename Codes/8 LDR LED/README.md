@@ -1,7 +1,6 @@
-![](https://github.com/UTDallasCSO/EngineeringProjectsWithArduino/blob/master/Codes/7%20LDR%20LED/7.LDR_LED.png)
+![](https://github.com/UTDallasCSO/EngineeringProjectsWithArduino/blob/master/Codes/8%20LDR%20LED/8.LDR_LED.png)
 
 ````
-/* Analog Read */
 int led=13;
 void setup()  {
   Serial.begin(9600);   	// initialize console output at 9600 bits per second
